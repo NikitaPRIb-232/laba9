@@ -1,15 +1,17 @@
 #include "sdt.h"
 
+using namespace std;
+
 int main() {
     int a, b;
 
-    std::cout << "Введите первое число: ";
-    std::cin >> a;
+    cout << "Введите первое число: ";
+    cin >> a;
 
-    std::cout << "Введите второе число: ";
-    std::cin >> b;
+    cout << "Введите второе число: ";
+    cin >> b;
 
-    std::cout << "Сумма чисел: " << a + b << std::endl;
+    cout << "Сумма чисел: " << a + b << endl;
 
     return 0;
 }
