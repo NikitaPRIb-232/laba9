@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Учебный файл
 int main() {
     int a, b;
 
