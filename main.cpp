@@ -12,6 +12,7 @@ int main() {
     cin >> b;
 
     cout << "Сумма чисел: " << a + b << endl;
+    cout << "Разность чисел: " << a - b << endl;
 
     return 0;
 }
